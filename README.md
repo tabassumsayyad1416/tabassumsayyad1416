@@ -1,21 +1,19 @@
 <h1 align="center">Hello, I am Tabassum Sayyad</h1>
-<h3 align="center">A passionate Python Developer and beginner in Web Development & Data Science from India <br><br></h3>
+<h3 align="center">A passionate beginner Python, Web Development & AI, ML from Pune,India <br><br></h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tabassum-tales" alt="tabassum-tales" /></a> </p>
+- Currently working on **building small Python projects and exploring Data Science basics <br>**
 
-- Currently working on **building small Python projects and exploring Data Science basics <br><br>**
+- I’m currently learning <br> **- HTML, CSS, JavaScript basics - SQL & R for data analysis - AI, ML foundations**
 
-- I’m currently learning **- HTML, CSS, JavaScript basics - SQL & R for data analysis - Data Science foundations**
+- Looking to Collaborate On: <br> **Beginner-friendly open-source Python or Web projects <br>**
 
-- Looking to Collaborate On: **Beginner-friendly open-source Python or Web projects <br><br>**
+- Currently Learning:<br> **HTML, CSS, JavaScript (basics) <br> Python,SQL and R for data analysis <br> Data Science foundations <br>**
 
-- Currently Learning: **HTML, CSS, JavaScript (basics) <br> Python,SQL and R for data analysis <br> Data Science foundations <br><br>**
+- All of my projects are available here:<br> GitHub Repositories (https://github.com/tabassum-tales) 
 
-- All of my projects are available here: GitHub Repositories (https://github.com/tabassum-tales) 
+- Contact:<br> **Email: tabassumsayyad1416@gmail.com <br> LinkedIn: [Tabassum Sayyad](https://linkedin.com/in/tabassumsayyad1416) <br> YouTube: [Deutsch Mit Tabassum](https://youtube.com/@GermanWithTabassum) <br>**
 
-- Contact: **Email: tabassumsayyad1416@gmail.com <br> LinkedIn: [Tabassum Sayyad](https://linkedin.com/in/tabassumsayyad1416) <br> YouTube: [Deutsch Mit Tabassum](https://youtube.com/@GermanWithTabassum) <br><br>**
-
-- Apart from the technical part: **I enjoy teaching German and exploring AI, Machine Learning, and Blockchain.**
+- Apart from the technical part: **I enjoy learning and teaching German and exploring AI, Machine Learning, and Blockchain.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
