@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I am Tabassum Sayyad</h1>
 <h3 align="center">A passionate Python Developer and beginner in Web Development & Data Science from India <br><br></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tabassum-tales&label=Profile%20views&color=0e75b6&style=flat" alt="tabassum-tales" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tabassum-tales" alt="tabassum-tales" /></a> </p>
 
 - Currently working on **building small Python projects and exploring Data Science basics <br><br>**
@@ -13,7 +11,7 @@
 
 - Currently Learning: **HTML, CSS, JavaScript (basics) <br> Python,SQL and R for data analysis <br> Data Science foundations <br><br>**
 
-- All of my projects are available here: [[GitHub Repositories](https://github.com/tabassum-tales) <br><br>]([GitHub Repositories](https://github.com/tabassum-tales) <br><br>)
+- All of my projects are available here: GitHub Repositories (https://github.com/tabassum-tales) 
 
 - Contact: **Email: tabassumsayyad1416@gmail.com <br> LinkedIn: [Tabassum Sayyad](https://linkedin.com/in/tabassumsayyad1416) <br> YouTube: [Deutsch Mit Tabassum](https://youtube.com/@GermanWithTabassum) <br><br>**
 
@@ -31,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tabassum-tales&show_icons=true&locale=en&layout=compact" alt="tabassum-tales" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tabassum-tales&show_icons=true&locale=en" alt="tabassum-tales" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tabassum-tales&" alt="tabassum-tales" /></p>
