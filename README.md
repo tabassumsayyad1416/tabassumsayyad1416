@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Tabassum Sayyad</h1>
-<h3 align="center">A passionate beginner Python, Web Development & AI, ML from Pune,India <br><br></h3>
+<h3 align="center">A passionate beginner in Python, Web Development & AI, ML from Pune, India <br><br></h3>
 
 - Currently working on **building small Python projects and exploring Data Science basics <br>**
 
