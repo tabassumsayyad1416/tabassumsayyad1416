@@ -3,11 +3,9 @@
 
 - Currently working on **building small Python projects and exploring Data Science basics <br>**
 
-- I’m currently learning <br> **- HTML, CSS, JavaScript basics - SQL & R for data analysis - AI, ML foundations**
+- Currently Learning:<br> **HTML, CSS, JavaScript (basics) <br> Python,SQL and R for data analysis <br> Data Science foundations <br>**
 
 - Looking to Collaborate On: <br> **Beginner-friendly open-source Python or Web projects <br>**
-
-- Currently Learning:<br> **HTML, CSS, JavaScript (basics) <br> Python,SQL and R for data analysis <br> Data Science foundations <br>**
 
 - All of my projects are available here:<br> GitHub Repositories (https://github.com/tabassum-tales) 
 
