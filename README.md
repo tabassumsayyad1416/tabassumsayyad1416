@@ -7,7 +7,7 @@
 
 - Looking to Collaborate On: <br> **Beginner-friendly open-source Python or Web projects <br>**
 
-- All of my projects are available here:<br> GitHub Repositories (https://github.com/tabassum-tales) 
+- All of my projects are available here:<br> GitHub Repositories (https://github.com/tabassumsayyad1416) 
 
 - Contact:<br> **Email: tabassumsayyad1416@gmail.com <br> LinkedIn: [Tabassum Sayyad](https://linkedin.com/in/tabassumsayyad1416) <br> YouTube: [Deutsch Mit Tabassum](https://youtube.com/@GermanWithTabassum) <br>**
 
